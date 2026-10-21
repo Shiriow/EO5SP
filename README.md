@@ -17,7 +17,7 @@ Earthrun and Therians have increased INT, Celestrians and Brouni have increased 
 
 Brouni now can get Ailment Boost at lv20
 
-Chain Blast nerfed to 1 random bind
+Chain Blast no longer binds, instead resets Bind AR
 
 Enemies resist elements more often, and have a couple more buffs and debuffs
 
@@ -25,9 +25,10 @@ Most physical attacks can be imbued
 
 Pancakes nerfed
 
-## Future versions
-### v0.6.1
-Add armor that grants weapon skills so they're not stuck to very specific weapons
+New Gloves that use ailment weapons as materials, enables the use of infliction skills
+
+New Accessories that use the same materials as weapons with skills. Enables the use of those skills with other weapons of the same type.
+
 
 ---
 
