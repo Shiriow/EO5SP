@@ -11,7 +11,7 @@ Note: Some descriptions, mainly accuracy and evasion, use ‰ instead of % as th
 ---
 # Current version
 
-7/10 classes done, with Harbinger in a beta state. Fencer, Necromancer, and Rover will come in a later update
+8/10 classes done, with Harbinger in a beta state. Necromancer and Rover will come in a later update
 
 Earthrun and Therians have increased INT, Celestrians and Brouni have increased STR
 
