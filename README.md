@@ -11,27 +11,27 @@ Note: Some descriptions, mainly accuracy and evasion, use ‰ instead of % as th
 ---
 # Current version
 
-8/10 classes done, with Harbinger in a beta state. Necromancer and Rover will come in a later update
+- 8/10 classes done, with Harbinger in a beta state. Necromancer and Rover will come in a later update
 
-Earthrun and Therians have increased INT, Celestrians and Brouni have increased STR
+- Earthrun and Therians have increased INT, Celestrians and Brouni have increased STR
 
-Brouni now can get Ailment Boost at lv20
+- Brouni now can get Ailment Boost at lv20
 
-Chain Blast no longer binds, instead resets Bind AR
+- Chain Blast no longer binds, instead resets Bind AR
 
-Enemies resist elements more often, and have a couple more buffs and debuffs
+- Enemies resist elements more often, and have a couple more buffs and debuffs
 
-Most physical attacks can be imbued
+- Most physical attacks can be imbued
 
-Pancakes nerfed
+- Pancakes nerfed
 
-New Gloves that use ailment weapons as materials, enables the use of infliction skills
+- New Gloves that use ailment weapons as materials, enables the use of infliction skills
 
-New Accessories that use the same materials as weapons with skills. Enables the use of those skills with other weapons of the same type.
+- New Accessories that use the same materials as weapons with skills. Enables the use of those skills with other weapons of the same type.
 
-New Shields that only Fencer can equip and enables different buffs
+- New Shields that only Fencer can equip and enables different buffs
 
-One new accessory that only Warlock's Timeseer title can equip, gaining a Quick-Chant effect
+- One new accessory that only Warlock's Timeseer title can equip, gaining a Quick-Chant effect
 
 
 ---
@@ -42,15 +42,15 @@ If you’re continuing from a vanilla playthrough then rest your party members
 
 **Luma:**
 
-Drag and drop the .ips and romfs folder into the “luma/titles/00040000001C5100” folder (or create them if they dont exist) 
+- Drag and drop the .ips and romfs folder into the “luma/titles/00040000001C5100” folder (or create them if they dont exist) 
 
-Also make sure game patching is enabled in the Luma Menu
+- Also make sure game patching is enabled in the Luma Menu
 
 **For Citra:**
 
-Right click EO5 -> Open Mods Folder
+- Right click EO5 -> Open Mods Folder
 
-Place the romfs folder and code.ips there
+- Place the romfs folder and code.ips there
 
 
 **Uninstall:**
