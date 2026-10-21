@@ -3,7 +3,7 @@
 # **[Download](https://github.com/Shiriow/EO5SP/releases/latest)**
 
 
-SkillSim: https://shiriow.github.io/EO5SP-Skillsim/eo5/
+# **SkillSim: https://shiriow.github.io/EO5SP-Skillsim/eo5/**
 
 
 Note: Some descriptions, mainly accuracy and evasion, use ‰ instead of % as that's how the game reads those values. Basically 100‰ = 10.0%
