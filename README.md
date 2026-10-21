@@ -29,6 +29,10 @@ New Gloves that use ailment weapons as materials, enables the use of infliction 
 
 New Accessories that use the same materials as weapons with skills. Enables the use of those skills with other weapons of the same type.
 
+New Shields that only Fencer can equip and enables different buffs
+
+One new accessory that only Warlock's Timeseer title can equip, gaining a Quick-Chant effect
+
 
 ---
 
